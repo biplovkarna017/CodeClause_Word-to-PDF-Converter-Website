@@ -1,0 +1,24 @@
+{
+  "name": "generatepdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Biplov Karna",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "libreoffice-convert": "^1.4.1",
+    "mammoth": "^1.5.1",
+    "puppeteer": "^19.6.2"
+  }
+}
