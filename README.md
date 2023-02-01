@@ -1,4 +1,3 @@
-# CodeClause_Word-to-PDF-Converter-Website
 # Word to PDF Converter Website
 
 This project was created as a task during the internship at @CodeClause.
